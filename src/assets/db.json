@@ -1,0 +1,27 @@
+{
+  "employee": [
+    {
+      "id": 100,
+      "name": "steve",
+      "age": 30,
+      "salary": 30000,
+      "email": "yas123@gmail.com"
+    }
+  ],
+  "user": [
+    {
+      "name": "hello",
+      "email": "yasir.as@gadgeon.com",
+      "password": "aaa",
+      "confirmPassword": "aaa",
+      "id": 1
+    },
+    {
+      "name": "hello",
+      "email": "vvvvv@gadgeon.com",
+      "password": "aaa",
+      "confirmPassword": "aaa",
+      "id": 2
+    }
+  ]
+}
