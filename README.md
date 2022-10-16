@@ -8,4 +8,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Description
 
-This project summarizes the working of authentication and the various aspects of API calling (GET, POST, PUT, DELETE) with the help of routing,httpcliengtModule,FormGroup
+This project summarizes the working of authentication and the various aspects of API calling (GET, POST, PUT, DELETE) with the help of routing,httpcliengtModule,FormGroup (this project is based on SPA authentication.
+studied how to use json server and how to pass datta to json file.
+when the user register the details will be saved on the json file and when user come to login,check the details that user entered while login is matching with the details in the json file.)
